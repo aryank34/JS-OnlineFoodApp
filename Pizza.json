@@ -16,7 +16,7 @@
           ],
           "product_details_page": [
             {
-              "url": "https://assets.zumepizza.com/public/aq89hll9.jpg"
+              "url": "https://img.freepik.com/free-photo/top-view-pepperoni-pizza-with-mushroom-sausages-bell-pepper-olive-corn-black-wooden_141793-2158.jpg?w=740&t=st=1694338831~exp=1694339431~hmac=0fceaf36e4d5a315d73480a1e45d1bb6a20c630c644a54c315432e32fed68e28"
             }
           ]
         },
@@ -87,6 +87,8 @@
           }
         ]
       },
+
+        
       {
         "id": 11,
         "name": "Veggie Zupreme",
@@ -103,7 +105,7 @@
           ],
           "product_details_page": [
             {
-              "url": "https://assets.zumepizza.com/public/aq89hll9.jpg"
+              "url": "https://img.freepik.com/free-photo/pizza-pepperoni-table_140725-5396.jpg?w=740&t=st=1694338845~exp=1694339445~hmac=fa3378dc683dcc9e2e1376aab43fba34e468963e2c2537b4dc8b070c91336fb2"
             }
           ]
         },
@@ -182,6 +184,8 @@
           }
         ]
       },
+
+        
       {
         "id": 12,
         "name": "The O.G.",
@@ -198,7 +202,7 @@
           ],
           "product_details_page": [
             {
-              "url": "https://assets.zumepizza.com/public/95n7xd91.jpg"
+              "url": "https://img.freepik.com/premium-photo/whole-italian-pizza-wooden-table-with-ingredients_251318-13.jpg?w=740"
             }
           ]
         },
@@ -237,5 +241,7 @@
           }
         ]
       }
+
+        
     ]
 }
