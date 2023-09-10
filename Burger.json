@@ -3,7 +3,7 @@
       {
         "id": 20,
         "name": "Tribute Burger",
-        "price": "23.95",
+        "price": "19.95",
         "menu_description": "A mouth-watering honest beef burger",
         "classifications": {
           "vegetarian": true
@@ -92,7 +92,7 @@
       {
         "id": 21,
         "name": "Pulled Mooshie",
-        "price": "19.95",
+        "price": "26.75",
         "menu_description": "Spicy vegan burger with jackfruit",
         "classifications": {
           "vegetarian": true
@@ -189,8 +189,8 @@
       {
         "id": 22,
         "name": "Krabby Patty",
-        "price": "16.95",
-        "menu_description": "The only people who don't like a Krabby Patty have never tasted one.",
+        "price": "21.35",
+        "menu_description": "Burger that you have never tasted one.",
         "classifications": {
           "vegetarian": true
         },
